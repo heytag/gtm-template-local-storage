@@ -1,1 +1,5 @@
-
+homepage: "https://www.example.com"
+documentation: "https://heytag.de/en/gtm-templates/local-storage-variable"
+versions:
+  - sha: 1e7797e9bedc6881633fb23d185017f736a83766
+    changeNotes: Initial release.
